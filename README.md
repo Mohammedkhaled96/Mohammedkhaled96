@@ -25,12 +25,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🤖 [**AgenticApi**](https://github.com/Mohammedkhaled96/AgenticApi) | Autonomous REST API: natural-language user management with LLM function calling and a regex fallback agent when the model is offline. | .NET 9 · Semantic Kernel · Ollama · EF Core · MySQL |
+| 🤖 [**AgenticApiDotNet**](https://github.com/Mohammedkhaled96/AgenticApiDotNet) | Autonomous REST API: natural-language user management with LLM function calling and a regex fallback agent when the model is offline. | .NET 9 · Semantic Kernel · Ollama · EF Core · MySQL |
 | ⚡ [**NexusShell**](https://github.com/Mohammedkhaled96/NexusShell) | Modern, accessible, AI-powered Windows terminal for PowerShell, CMD and WSL — screen-reader friendly output, accessible TUIs, RTL support. | C# · WebView2 · xterm.js · ConPTY |
 | ⌨️ [**Keyboard Shortcut Autocomplete Pro**](https://github.com/Mohammedkhaled96/keyboard_shortcut_autocomplete_pro) | NVDA add-on for text expansion with a searchable manager, import/export, live hints and undo. | Python · NVDA API · wxPython |
 | 📱 [**GuideX2025**](https://github.com/Mohammedkhaled96/GuideX2025) | QR code management API: items, QR codes and scan tracking with a published deployment pipeline. | ASP.NET Core · EF Core · MySQL · Swagger |
-| 🧰 [**My-Projects**](https://github.com/Mohammedkhaled96/My-Projects) | Collection of web tools: live HTML/CSS/JS editor, online Python compiler, touch-typing game, QR & signature generators. | JavaScript · HTML · CSS · PHP |
-
 ## 🛠️ Tech stack
 
 **Backend & AI**
