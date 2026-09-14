@@ -6,6 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=512BD4&center=true&vCenter=true&width=620&lines=Building+agentic+APIs+with+.NET+%26+Semantic+Kernel;Running+LLMs+locally+with+Ollama;Making+developer+tools+accessible+for+everyone)](https://github.com/Mohammedkhaled96)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-khaled)
+[![YouTube](https://img.shields.io/badge/YouTube-@mohammedkhaledmahmoud-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mohammedkhaledmahmoud)
+[![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1MJs7uMCZb/)
+
 [![Email](https://img.shields.io/badge/Email-mohammed.khaled.mahmoud1996%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.khaled.mahmoud1996@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Mohammedkhaled96?style=for-the-badge&logo=github&label=Follow)](https://github.com/Mohammedkhaled96)
 
@@ -77,5 +81,7 @@
 <div align="center">
 
 💬 Open to collaboration on **AI agents**, **.NET backends** and **accessibility** projects — feel free to reach out!
+
+[LinkedIn](https://www.linkedin.com/in/mohammed-khaled) · [YouTube](https://youtube.com/@mohammedkhaledmahmoud) · [Facebook](https://www.facebook.com/share/1MJs7uMCZb/) · [Email](mailto:mohammed.khaled.mahmoud1996@gmail.com)
 
 </div>
